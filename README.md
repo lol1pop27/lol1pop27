@@ -3,7 +3,7 @@
 
 ---
 
-## О себе
+##  О себе
 
 Инженер-программист с опытом разработки и внедрения автоматизированных
 систем управления (АСУ ТП) в научно-исследовательской среде.
@@ -17,54 +17,54 @@
 - преподавание программирования (150+ обучающихся)
 
 ---
-## Технологии
+##  Технологии
 
-### Языки
+###  Языки
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-engineering-orange)
 ![C](https://img.shields.io/badge/C-basic-lightgrey)
 
 ---
 
-### Backend & Frameworks
+###  Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-async-green)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
 ![Pytest](https://img.shields.io/badge/Pytest-testing-yellow)
 
 ---
 
-### 📊 Data & Visualization
+###  Data & Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-statistics-lightblue)
 
 ---
 
-### 🗄️ Базы данных
+###  Базы данных
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-db-lightgrey)
 
 ---
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-container-blue)
 ![Git](https://img.shields.io/badge/Git-version--control-orange)
 
 ---
 
-### 🌐 Web
+###  Web
 ![HTML5](https://img.shields.io/badge/HTML5-markup-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-style-blue)
 
 ---
 
-### 🔌 Протоколы и инженерия
+###  Протоколы и инженерия
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-network-black)
 ![Modbus](https://img.shields.io/badge/Modbus-industrial-red)
 ![HTTPS](https://img.shields.io/badge/HTTPS-secure-green)
 
 ---
 
-### Инженерные навыки
+###  Инженерные навыки
 - АСУ ТП / системы автоматизации  
 - Разработка и чтение электрических схем  
 - ООП / SOLID  
@@ -73,7 +73,7 @@
 
 ---
 
-## 📈 GitHub
+##  GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lol1pop27&show_icons=true&theme=tokyonight" />
@@ -90,8 +90,8 @@
 
 ##  Контакты
 
-- 📧 paraniushkin_27@mail.ru  
-- 💬 https://t.me/afonin_27  
+- paraniushkin_27@mail.ru  
+- https://t.me/afonin_27  
 
 ---
 
