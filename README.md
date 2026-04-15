@@ -17,43 +17,59 @@
 - преподавание программирования (150+ обучающихся)
 
 ---
-Технологии
+## ⚙️ Технологии
 
-### 💻 Backend
+### 💻 Языки
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-async-green)
-
-### 📊 Data
-![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-statistics-lightblue)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
-![MySQL](https://img.shields.io/badge/MySQL-db-lightgrey)
-
-### 🔧 Tools
-![Docker](https://img.shields.io/badge/Docker-container-blue)
-![Git](https://img.shields.io/badge/Git-version--control-orange)
-![Linux](https://img.shields.io/badge/Linux-dev-black)
-
-## Стек
-
-•	Languages: Python / LabVIEW / C (базовый) 
-•	Frameworks: FastAPI / Tkinter / Pytest
-•	Libraries: Matplotlib / Seaborn / Pygame 
-•	Databases: MySQL / PostgreSQL
-•	DevOps/Tools: Docker / Git
-•	Web — Technologies: HTML5 / CSS3
-•	Protocols: TCP/IP, Modbus, HTTPS
+![LabVIEW](https://img.shields.io/badge/LabVIEW-engineering-orange)
+![C](https://img.shields.io/badge/C-basic-lightgrey)
 
 ---
 
-## Ключевые направления
+### 🚀 Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
+![Pytest](https://img.shields.io/badge/Pytest-testing-yellow)
 
--  Автоматизированные системы управления
--  Python-разработка
--  Анализ и визуализация данных
--  Работа с экспериментальными установками
+---
+
+### 📊 Data & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-statistics-lightblue)
+
+---
+
+### 🗄️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
+![MySQL](https://img.shields.io/badge/MySQL-db-lightgrey)
+
+---
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-container-blue)
+![Git](https://img.shields.io/badge/Git-version--control-orange)
+
+---
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-markup-orange)
+![CSS3](https://img.shields.io/badge/CSS3-style-blue)
+
+---
+
+### 🔌 Протоколы и инженерия
+![TCP/IP](https://img.shields.io/badge/TCP/IP-network-black)
+![Modbus](https://img.shields.io/badge/Modbus-industrial-red)
+![HTTPS](https://img.shields.io/badge/HTTPS-secure-green)
+
+---
+
+### Инженерные навыки
+- АСУ ТП / системы автоматизации  
+- Разработка и чтение электрических схем  
+- ООП / SOLID  
+- Работа с экспериментальными установками  
+
 
 ---
 
