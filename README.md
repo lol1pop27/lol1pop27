@@ -88,13 +88,6 @@
 
 ---
 
-##  Контакты
-
-- paraniushkin_27@mail.ru  
-- https://t.me/afonin_27  
-
----
-
 ##  Цель
 
 Ищу позицию:
