@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет, я Илья Афонин</h1>
-<h3 align="center">Python Developer • Backend • Automation Systems</h3>
+<h3 align="center">Python Developer • Инженер-программистs</h3>
 
 ---
 
