@@ -17,16 +17,16 @@
 - преподавание программирования (150+ обучающихся)
 
 ---
-## ⚙️ Технологии
+## Технологии
 
-### 💻 Языки
+### Языки
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-engineering-orange)
 ![C](https://img.shields.io/badge/C-basic-lightgrey)
 
 ---
 
-### 🚀 Backend & Frameworks
+### Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-async-green)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
 ![Pytest](https://img.shields.io/badge/Pytest-testing-yellow)
