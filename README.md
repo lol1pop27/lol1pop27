@@ -58,7 +58,7 @@
 ---
 
 ###  Протоколы и инженерия
-![TCP/IP](https://img.shields.io/badge/TCP/IP-network-gree)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-network-green)
 ![Modbus](https://img.shields.io/badge/Modbus-industrial-red)
 ![HTTPS](https://img.shields.io/badge/HTTPS-secure-green)
 
